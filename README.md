@@ -8,5 +8,5 @@
 * login
 ![Preview](s5.png)
 *register
-![Preview](Screenshot_2025-07-17_202044.png)
+![Preview](s8.png)
   
